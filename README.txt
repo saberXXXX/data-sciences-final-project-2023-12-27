@@ -1,0 +1,3 @@
+The AAPL and AMZE csv files are the training as well as testing datasets, the code processes the datasets in a ratio of 80% training and 20% testing
+Liner_Regression.py is the method of multiple linear regression, ARIMA is the same.
+LSTM is a one-way prediction model, LSTM2 is a two-way prediction model, if you want to modify the DAYS parameter, you can find in the code where the function runs, and modify it directly.
